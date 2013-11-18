@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%% EDAA25: Assignment 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%% EDAA25: Assignment 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% C programming at LTH, Lund, Sweden. Program for multiplying polynomials
 %% from CL. 
 %% by: Ludwig Jacobsson | knd09lja | ludjac@gmail.com
